@@ -6,7 +6,7 @@ const Video = () => {
 
   return (
     <div>
-        <div className="w-[60%] mx-auto grid place-items-center -mt-24">
+        <div className="w-full sm:w-[60%] mx-auto grid place-items-center -mt-24">
             <div className="relative w-full pb-[56.25%]">
                 <iframe
                     className="absolute inset-0 w-full h-full"
